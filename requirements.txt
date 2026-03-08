@@ -2,3 +2,4 @@ requests
 pandas
 plotly
 jupyter
+kaleido==0.2.1
